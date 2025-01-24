@@ -7,9 +7,9 @@ const Thankyou = () => {
             Terima kasih telah mendaftar! Kami menghargai partisipasi Anda dan
             menantikan keterlibatan Anda.
           </h1>
-          <a href="/" className="btn btn-action">
+          <Link href="/" className="btn btn-action">
           Kembali ke menu pendaftaran
-          </a>
+          </Link>
         </div>
       </section>
     </>
